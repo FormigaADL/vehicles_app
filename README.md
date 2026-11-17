@@ -15,3 +15,5 @@ Um botão de seleção (checkbox) que, quando ativado, gera e exibe um histogram
 Gráfico de Dispersão (Scatter Plot) - Preço vs. Quilometragem:
 
 Um segundo botão de seleção (checkbox) que permite ao usuário visualizar a relação direta entre a quilometragem (odometer) e o preço (price) dos veículos, ajudando a analisar como o uso afeta a desvalorização do carro.
+
+Link para o app: https://vehicles-app-1-do3f.onrender.com/ 
